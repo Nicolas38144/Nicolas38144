@@ -80,37 +80,15 @@
 <br>
 
 <div align="center">
-  <img src="./assets/developer-code.svg" width="100%" alt="VS Code styled developer configuration">
+  <img src="./developer-code.svg" width="100%" alt="VS Code styled developer configuration">
 </div>
-
-<br>
-
-## `// STACK_ARCHITECTURE`
-
-<pre><code>                     ┌─────────────────────┐
-                     │      FRONTEND       │
-                     │ React / TypeScript  │
-                     └──────────┬──────────┘
-                                │
-                                ▼
-                     ┌─────────────────────┐
-                     │       BACKEND       │
-                     │       NestJS        │
-                     └──────────┬──────────┘
-                                │
-                    ┌───────────┴───────────┐
-                    ▼                       ▼
-          ┌─────────────────┐     ┌─────────────────┐
-          │   PostgreSQL    │     │    ScyllaDB     │
-          │ Relational Data │     │  Scalable Data  │
-          └─────────────────┘     └─────────────────┘</code></pre>
 
 <br>
 
 ## `// CURRENT_MISSION`
 
 <div align="center">
-  <img src="./assets/current-mission.svg" width="100%" alt="Cyberpunk terminal showing current mission">
+  <img src="./current-mission.svg" width="100%" alt="Cyberpunk terminal showing current mission">
 </div>
 
 <br>
@@ -126,63 +104,3 @@
 />
 
 </div>
-
-<br>
-
-## `// SYSTEM_LOG`
-
-<div align="center">
-  <img src="./assets/system-log.svg" width="100%" alt="Cyberpunk system log">
-</div>
-
-<br>
-
-## `// SIGNAL`
-
-<div align="center">
-
-<img
-  src="https://img.shields.io/badge/REACT-LOADED-00F5FF?style=flat-square&logo=react&logoColor=00F5FF&labelColor=080B14"
-  alt="React loaded"
-/>
-<img
-  src="https://img.shields.io/badge/NESTJS-ONLINE-FF2BD6?style=flat-square&logo=nestjs&logoColor=white&labelColor=080B14"
-  alt="NestJS online"
-/>
-<img
-  src="https://img.shields.io/badge/POSTGRESQL-CONNECTED-8B5CF6?style=flat-square&logo=postgresql&logoColor=white&labelColor=080B14"
-  alt="PostgreSQL connected"
-/>
-<img
-  src="https://img.shields.io/badge/SCYLLADB-SYNCED-00F5FF?style=flat-square&labelColor=080B14"
-  alt="ScyllaDB synced"
-/>
-
-<br><br>
-
-<pre><code>╭──────────────────────────────────────────╮
-│                                          │
-│          N I C O L A S 3 8 1 4 4        │
-│                                          │
-│        FULL-STACK DEV // ONLINE          │
-│                                          │
-│          ENTER THE NEON GRID             │
-│                                          │
-╰──────────────────────────────────────────╯</code></pre>
-
-<img
-  src="https://komarev.com/ghpvc/?username=Nicolas38144&style=for-the-badge&color=blueviolet&label=VISITORS"
-  alt="Profile views"
-/>
-
-<br><br>
-
-### `> SEE YOU IN THE GRID_`
-
-</div>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,45:3A0CA3,100:12001F"
-  width="100%"
-  alt="Cyberpunk footer"
-/>
