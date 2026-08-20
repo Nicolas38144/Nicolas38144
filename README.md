@@ -1,20 +1,20 @@
 <!--
-  ============================================================
-  NICOLAS38144 — FULL-STACK DEVELOPER
-  ============================================================
+=============================================================
+NICOLAS38144 — FULL-STACK DEVELOPER
+=============================================================
 -->
 
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:12001F,45:3A0CA3,100:00D9FF&text=NICOLAS38144&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%2F%2F%20SYSTEM%20BUILDER&descAlignY=58&animation=fadeIn"
-width="100%"
-alt="Nicolas38144 cyberpunk banner"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:12001F,45:3A0CA3,100:00D9FF&text=NICOLAS38144&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%2F%2F%20SYSTEM%20BUILDER&descAlignY=58&animation=fadeIn"
+  width="100%"
+  alt="Nicolas38144 cyberpunk banner"
 />
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=700&color=00F5FF&center=true&vCenter=true&width=760&lines=%5BSYSTEM%5D+Booting+developer+profile...;%5BACCESS+GRANTED%5D+Welcome%2C+visitor.;React+%2F%2F+TypeScript+%2F%2F+NestJS;PostgreSQL+%2F%2F+ScyllaDB+%2F%2F+Redis;Building+systems+across+the+entire+stack.;%3E+READY+TO+SHIP_"
-alt="Typing animation"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=700&color=00F5FF&center=true&vCenter=true&width=760&lines=%5BSYSTEM%5D+Booting+developer+profile...;%5BACCESS+GRANTED%5D+Welcome%2C+visitor.;React+%2F%2F+TypeScript+%2F%2F+NestJS;PostgreSQL+%2F%2F+ScyllaDB+%2F%2F+Redis;Building+systems+across+the+entire+stack.;%3E+READY+TO+SHIP_"
+  alt="Typing animation"
 />
 
 </div>
@@ -23,7 +23,7 @@ alt="Typing animation"
 
 // IDENTITY
 
-Full-stack developer building modern web systems from interface to infrastructure — React & TypeScript on the frontend, NestJS on the backend, backed by PostgreSQL, ScyllaDB & Redis.
+Full-stack developer building modern web systems from interface to infrastructure — React and TypeScript on the frontend, NestJS on the backend, backed by PostgreSQL, ScyllaDB and Redis.
 
 <br>
 
@@ -35,20 +35,19 @@ Full-stack developer building modern web systems from interface to infrastructur
 
 A new dating experience currently under development.
 
-From its public web presence to its backend architecture and scalable data layer,
-Histae is the project where I design and build the complete stack.
+From its public web presence and administrative operations to its backend architecture and scalable data layer, Histae is the project where I design and build the complete stack.
 
 <br>
 
 <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-FF2BD6?style=for-the-badge&labelColor=080B14" alt="In development">
 <img src="https://img.shields.io/badge/WEB-NEXT.JS-00F5FF?style=for-the-badge&labelColor=080B14" alt="Next.js">
 <img src="https://img.shields.io/badge/API-NESTJS-8B5CF6?style=for-the-badge&labelColor=080B14" alt="NestJS">
+<img src="https://img.shields.io/badge/ADMIN-REACT%20%2F%20VITE-00D9FF?style=for-the-badge&labelColor=080B14" alt="Histae Dashboard">
 <a href="https://www.histae.com">
   <img src="https://img.shields.io/badge/ENTER-WWW.HISTAE.COM-00F5FF?style=for-the-badge&labelColor=080B14" alt="Histae website">
 </a>
+
 <br><br>
-
-
 
 </div>
 
@@ -56,7 +55,7 @@ Histae is the project where I design and build the complete stack.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 🌐 histae-site
 
@@ -78,7 +77,7 @@ BRAND // SEO // RESPONSIVE // EXPERIENCE
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ⚡ histae-api
 
@@ -99,6 +98,28 @@ POSTGRESQL // SCYLLADB // REDIS
 </a>
 
 </td>
+
+<td width="33%" valign="top">
+
+🛡️ histae-dashboard
+
+The administrative control center for the Histae platform.
+
+REACT // VITE // TYPESCRIPT // MUI
+
+<br>
+
+Focus
+
+OPERATIONS // MODERATION // PRIVACY // SECURITY
+
+<br>
+
+<a href="https://github.com/Nicolas38144/histae-dashboard">
+  <img src="https://img.shields.io/badge/ACCESS_REPOSITORY-00D9FF?style=flat-square&logo=github&logoColor=white&labelColor=080B14" alt="Histae dashboard repository">
+</a>
+
+</td>
 </tr>
 </table>
 
@@ -109,8 +130,8 @@ POSTGRESQL // SCYLLADB // REDIS
 <div align="center">
 
 <img
-src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nestjs,nodejs,postgres,redis,git,github&theme=dark"
-alt="Technology stack"
+  src="https://skillicons.dev/icons?i=react,nextjs,vite,materialui,ts,js,nestjs,nodejs,postgres,redis,git,github&theme=dark"
+  alt="Technology stack"
 />
 
 <br><br>
@@ -126,9 +147,9 @@ FRONTEND // BACKEND // DATABASES // DISTRIBUTED SYSTEMS
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolas38144&bg_color=080B14&color=00F5FF&line=FF2BD6&point=FFFFFF&area=true&hide_border=true&custom_title=Nicolas38144%20%2F%2F%20Contribution%20Signal"
-width="96%"
-alt="Nicolas38144 GitHub activity graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolas38144&bg_color=080B14&color=00F5FF&line=FF2BD6&point=FFFFFF&area=true&hide_border=true&custom_title=Nicolas38144%20%2F%2F%20Contribution%20Signal"
+  width="96%"
+  alt="Nicolas38144 GitHub activity graph"
 />
 
 </div>
@@ -138,6 +159,7 @@ alt="Nicolas38144 GitHub activity graph"
 <div align="center">
 
 [ SYSTEM ONLINE ]
+
 BUILD // LEARN // ITERATE // SHIP
 
 </div>
