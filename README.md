@@ -7,14 +7,14 @@ NICOLAS38144 — FULL-STACK DEVELOPER
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:12001F,45:3A0CA3,100:00D9FF&text=NICOLAS38144&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%2F%2F%20SYSTEM%20BUILDER&descAlignY=58&animation=fadeIn"
-  width="100%"
-  alt="Nicolas38144 cyberpunk banner"
+src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:12001F,45:3A0CA3,100:00D9FF&text=NICOLAS38144&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%2F%2F%20SYSTEM%20BUILDER&descAlignY=58&animation=fadeIn"
+width="100%"
+alt="Nicolas38144 cyberpunk banner"
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=700&color=00F5FF&center=true&vCenter=true&width=760&lines=%5BSYSTEM%5D+Booting+developer+profile...;%5BACCESS+GRANTED%5D+Welcome%2C+visitor.;React+%2F%2F+TypeScript+%2F%2F+NestJS;PostgreSQL+%2F%2F+ScyllaDB+%2F%2F+Redis;Building+systems+across+the+entire+stack.;%3E+READY+TO+SHIP_"
-  alt="Typing animation"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=700&color=00F5FF&center=true&vCenter=true&width=760&lines=%5BSYSTEM%5D+Booting+developer+profile...;%5BACCESS+GRANTED%5D+Welcome%2C+visitor.;React+%2F%2F+TypeScript+%2F%2F+NestJS;PostgreSQL+%2F%2F+ScyllaDB+%2F%2F+Redis;Building+systems+across+the+entire+stack.;%3E+READY+TO+SHIP_"
+alt="Typing animation"
 />
 
 </div>
@@ -130,30 +130,17 @@ OPERATIONS // MODERATION // PRIVACY // SECURITY
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=react,nextjs,vite,materialui,ts,js,nestjs,nodejs,postgres,redis,git,github&theme=dark"
-  alt="Technology stack"
+src="https://skillicons.dev/icons?i=react,nextjs,vite,materialui,ts,js,nestjs,nodejs,postgres,redis,git,github&theme=dark"
+alt="Technology stack"
 />
 
-<br><br>
+<br>
 
 FRONTEND // BACKEND // DATABASES // DISTRIBUTED SYSTEMS
 
 </div>
 
 <br>
-
-// GITHUB_TELEMETRY
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolas38144&bg_color=080B14&color=00F5FF&line=FF2BD6&point=FFFFFF&area=true&hide_border=true&custom_title=Nicolas38144%20%2F%2F%20Contribution%20Signal"
-  width="96%"
-  alt="Nicolas38144 GitHub activity graph"
-/>
-
-</div>
-
 <br>
 
 <div align="center">
